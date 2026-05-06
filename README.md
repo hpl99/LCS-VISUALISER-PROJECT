@@ -2,7 +2,7 @@
 
 A Dynamic Programming based project demonstrating Longest Common Subsequence (LCS) with Real-World Applications including Plagiarism Detection, DNA Sequencing, and File Comparison.
 
-📌 Project Overview
+📌 Project-Overview
 
 This project implements the Longest Common Subsequence (LCS) algorithm using Dynamic Programming and applies it to real-world scenarios.
 
